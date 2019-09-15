@@ -1,1 +1,1 @@
-[My CV on Github Pages](https://deekline.github.io/rsschool-cv/cv)
+[My CV on Github](https://deekline.github.io/rsschool-cv/cv)
