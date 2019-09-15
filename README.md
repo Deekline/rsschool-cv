@@ -1,1 +1,1 @@
-# rsschool-cv
+[My CV on Github Pages](https://deekline.github.io/rsschool-cv/cv)
