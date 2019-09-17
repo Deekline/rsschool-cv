@@ -1,0 +1,23 @@
+body {
+    max-width: 1024px;
+}
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.main-section {
+    display: flex;
+}
+
+img {
+    width: 200px;
+    height: 100%;
+}
+
+.main-info-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.aboutme-section {
+    flex-grow: 1;
+}
