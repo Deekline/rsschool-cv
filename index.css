@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(0.25turn, #b3e1f7, #ebf8e1, #f5facc);
+}
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 1024px;
+    margin: auto;
+}
+header {
+    margin: auto;
+}
+.main-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    width: 200px;
+    height: 100%;
+}
+
+.main-info-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.aboutme-section {
+        max-width: 720px;
+        margin: 20px auto;
+        text-align: justify;
+}
+
+footer {
+    color: gray;
+    margin-top:50px;
+    text-align: end;
+}
+.main-list li {
+    margin-top: 8px;
+}
